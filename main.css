@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(to bottom, #757abf 0%, #8583be 60%, #eab0d1 100%) no-repeat center fixed;
+    background-image: url(scene.jpg);
+    height: 100%;
+    width: 100%;
+    margin-top: -20px;
+
+}
+#btninput{
+    position: absolute;
+    top:50%;
+    left:40%;
+    width: 175px;
+    height: 35px;
+    font-size: 35px;
+    text-align: center;
+}
+button {
+	position: absolute;
+    top:51,5%;
+    left:55%;
+    height: 35px;
+    font-size: 23px;
+}
+h1 {
+	text-align: center;
+	font-size: 34px;
+	color: black;
+}
+
+h2{
+	text-align: center;
+	font-size: 34px;
+	color: #AF002F;
+}
+p{
+	text-align: center;
+	font-size: 20px;
+	color: black;
+
+}
+#replay {
+	position: absolute;
+    top:70%;
+    left:46%;
+    height: 35px;
+    font-size: 23px;
+    text-align: center;
+}
+#plus {
+	position: absolute;
+	top: 0%;
+	left : 10%;
+}
+#moins {
+	position: absolute;
+	top : 0%;
+	right: 10%;
+}
+footer {
+	position: absolute;
+	top: 85%;
+	left: 46%;
+}
